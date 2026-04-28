@@ -26,5 +26,12 @@ short videos using state-of-the-art diffusion models.
 - "Ocean waves crashing on beach at sunset, cinematic"
 - "A rocket launching into space with fire and smoke"
 - "Snow falling in quiet forest at night, atmospheric"
+- ## Demo Output
+
+A cat sitting on a beach at sunset
+<img width="721" height="403" alt="image" src="https://github.com/user-attachments/assets/726853d2-b9b0-40e4-9f3d-4a396d6b6a43" />
+
+
+*Prompt: "A cat sitting on a beach at sunset"*
 
 ## Architecture
